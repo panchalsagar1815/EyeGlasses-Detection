@@ -1,4 +1,4 @@
-# EyeGlasses-Detecti
+# EyeGlasses-Detec
 **Project Title: Eye Glasses Detection**
 
 **Overview:**
