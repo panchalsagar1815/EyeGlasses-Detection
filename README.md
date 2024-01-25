@@ -1,4 +1,4 @@
-# EyeGlasses-D
+# EyeGlasses
 **Project Title: Eye Glasses Detection**
 
 **Overview:**
