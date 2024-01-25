@@ -1,4 +1,4 @@
-# EyeG
+# Ey
 **Project Title: Eye Glasses Detection**
 
 **Overview:**
