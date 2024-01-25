@@ -1,5 +1,5 @@
 
-**Project Title: Eye Glasses Detection**
+# **Project Title: Eye Glasses Detection**
 
 **Overview:**
 The "Eye Glasses Detection" project focuses on developing an advanced computer vision system that can accurately identify whether a person in an image is wearing glasses or not. Leveraging state-of-the-art techniques in data preprocessing, model architecture, and tuning, this project contributes to the field of facial feature recognition, with potential applications in security, retail, and accessibility.
